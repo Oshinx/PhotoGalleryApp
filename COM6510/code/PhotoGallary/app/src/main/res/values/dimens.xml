@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_font">13dp</dimen>
+    <dimen name="average_font">17dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="very_small_margin">3dp</dimen>
+</resources>

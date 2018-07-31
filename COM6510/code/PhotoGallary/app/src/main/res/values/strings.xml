@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoGallary</string>
+    <string name="search">Search</string>
+    <string name="staggered">Staggered</string>
+    <string name="setting">Setting</string>
+    <string name="grid">Grid</string>
+    <string name="yes">Yes</string>
+    <string name="map_type_none">None</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+    <string name="account_type">com.michael.Com6510.photogallary</string>
+    <string name="authority">package com.michael.Com6510.photogallary.database.mycontentprovider</string>
+</resources>
